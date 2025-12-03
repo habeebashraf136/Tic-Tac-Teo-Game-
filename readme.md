@@ -20,3 +20,6 @@
 # If all cells are filled and no one wins → the game ends in a draw.
 # Click Restart to play again.
 
+## Clone the repository
+
+
